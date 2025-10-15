@@ -1,0 +1,48 @@
+.input{
+    width: 30%;
+    height: 22px;
+    padding: 2px;
+}
+.registration{
+    width: 30%;
+    margin: auto;
+    padding: auto;
+    font-family: sans-serif;
+    background-color: rgb(163, 167, 167);
+    
+    
+}
+legend{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: rgb(0, 9, 12);
+    margin-bottom: 20px;
+    text-shadow:
+    0 0 5px #00cddb,
+    0 0 10px rgb(125, 184, 233),
+    0 0 20px rgb(125, 184, 233),
+    0 0 30px rgb(125, 184, 233),
+    0 0 40px rgb(125, 184, 233);
+    
+}
+#button{
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-weight: bold;
+    background-color: aqua;
+ 
+    
+}
+#reset{
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: rgb(23, 241, 248);
+    font-weight: bold;
+    font-style: oblique;
+}
+#pindot{
+    float: right;
+    padding: 10px; 
+}
